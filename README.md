@@ -1,22 +1,22 @@
 # Thesis
 Image Classification with Convolutional Neural Networks
-```
-```
+#
+#
 This project is a thesis study conducted in the Physics Department of Yildiz Technical University. It aims to classify military vehicles in the MSTAR dataset using Convolutional Neural Networks (CNN).
-```
-```
+#
+#
 About the Project
  In this study, classification of SAR (Synthetic-Aperture Radar) images created within the scope of the MSTAR (Moving and Stationary Target Acquisition and Recognition) program was performed using three different CNN architectures (AlexNet, VGG-16, and ResNet).
-```
-```
+#
+#
 Contents
  This repository contains:
    Thesis text (Turkish and English)
    Python codes of the CNN models used
    Results of experiments with the MSTAR dataset
    Dataset samples
-``` 
-``` 
+# 
+# 
 Requirements
  To run this project, you will need the following libraries:
    Python 3.x
@@ -24,12 +24,12 @@ Requirements
    Keras
    NumPy
    Matplotlib
-```
-```
+#
+#
 You can install these libraries with the following command:
-   pip install tensorflow keras numpy matplotlib
-```
-```
+```   pip install tensorflow keras numpy matplotlib
+#
+#
 Usage
  1. Clone the repository:
    git clone https://github.com/kankotan/cnn-image-classification.git
