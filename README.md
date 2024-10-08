@@ -1,7 +1,7 @@
 # Thesis
 Image Classification with Convolutional Neural Networks
-#
-#
+&nbsp;
+&nbsp;
 This project is a thesis study conducted in the Physics Department of Yildiz Technical University. It aims to classify military vehicles in the MSTAR dataset using Convolutional Neural Networks (CNN).
 #
 #
