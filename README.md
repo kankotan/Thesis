@@ -1,10 +1,8 @@
 # Thesis
 Image Classification with Convolutional Neural Networks<br>
-<br>
-<br>
+<br><br>
 This project is a thesis study conducted in the Physics Department of Yildiz Technical University. It aims to classify military vehicles in the MSTAR dataset using Convolutional Neural Networks (CNN).
-<br>
-<br>
+<br><br>
 About the Project
  In this study, classification of SAR (Synthetic-Aperture Radar) images created within the scope of the MSTAR (Moving and Stationary Target Acquisition and Recognition) program was performed using three different CNN architectures (AlexNet, VGG-16, and ResNet).
 <br>
