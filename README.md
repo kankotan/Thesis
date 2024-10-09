@@ -39,7 +39,7 @@
     
 <h3>Usage</h3>
  <p>&nbsp;&nbsp;1. Clone the repository:<br><br>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>git clone https://github.com/kankotan/cnn-image-classification.git</code><br><br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>git clone https://github.com/kankotan/thesis.git</code><br><br>
  
   &nbsp;&nbsp;  2. Install the required libraries.<br><br>
   &nbsp;&nbsp;  3. Run the codes:<br><br>
